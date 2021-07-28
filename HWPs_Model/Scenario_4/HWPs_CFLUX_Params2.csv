@@ -1,0 +1,36 @@
+Para_Name,Unit,Description,Value
+cha_pce,fraction,charcoal production efficiency (C emission/total C),0.33
+ifw_bur,fraction,industrial firewood burning efficency  (C emission/total C),0.97
+rfw_bur,fraction,residential firewood burning efficency  (C emission/total C),0.92
+pap_dp1,,paper disposal rate parameter 1 ,0.182
+pap_dp2,,paper disposal rate parameter 2,0.02
+pap_dp3,year,paper disposal rate parameter 3 (service life),15
+pap_rp1,,paper recycling rate parameter 1,1.65
+pap_rp2,,paper recycling rate parameter 2,10
+bco_dp1,,building construction disposal rate parameter 1 ,0.107
+bco_dp2,,building construction disposal rate parameter 2,0.045
+bco_dp3,year,building construction disposal rate parameter 3 (service life),100
+bco_rp1,,building construction recycling rate parameter 1,1
+bco_rp2,,building construction recycling rate parameter 2,40
+eco_dp1,,exterior construction disposal rate parameter 1 ,0.102
+eco_dp2,,exterior construction disposal rate parameter 2,0.04
+eco_dp3,year,exterior construction disposal rate parameter 3  (service life),60
+hma_dp1,,home application disposal rate parameter 1 ,0.099
+hma_dp2,,home application disposal rate parameter 2,0.045
+hma_dp3,year,home application disposal rate parameter 3 (service life),70
+hma_rp1,,home application recycling rate parameter 1,1
+hma_rp2,,home application recycling rate parameter 2,30
+pr_rp1,,processing residuals recycling parameter 1,1
+pr_rp2,,processing residuals recycling parameter 2,30
+ldf_pap1,,landfill paper decay rate parameter 1,1.65
+ldf_pap2,year,landfill paper decay rate parameter 2 (turnover time),10
+ldf_bcp1,,landfill building consctruction decay rate parameter 1,0.9
+ldf_bcp2,year,landfill building consctruction decay rate parameter 2  (turnover time),40
+ldf_ecp1,,landfill exterior construction decay rate parameter 1 ,0.95
+ldf_ecp2,year,landfill exterior construction decay rate parameter 2  (turnover time),35
+ldf_hap1,,landfill home application decay rate parameter 1,1
+ldf_hap2,year,landfill home application decay rate parameter 2  (turnover time),20
+ldf_prp1,,landfill processing residuals decay rate parameter 1,1.18
+ldf_prp2,year,landfill processing residuals decay rate parameter 2  (turnover time),20
+cha_dc1,% per year,charcoal decay rate parameter 1,0.001
+cha_dc2,,charcoal decay rate parameter 2,1
